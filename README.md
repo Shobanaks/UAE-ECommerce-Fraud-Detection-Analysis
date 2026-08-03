@@ -221,7 +221,6 @@ The analysis helps organizations:
 # 👩‍💻 Author
 
 **Shobana M**
-📧 shobanamurugesan75@gmail.com  
+📧 shobanam135@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/shobana-m-3542a933a
-📧 [shobanamurugesan75@gmail.com](mailto:shobanamurugesan75@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/shobana-m-3542a933a
+
